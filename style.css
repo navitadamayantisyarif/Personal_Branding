@@ -6,30 +6,25 @@ body {
 }
 
 header {
-    background-color: #333;
-    color: white;
+    background: #35424a;
+    color: #ffffff;
+    padding: 20px;
     text-align: center;
-    padding: 1rem;
 }
 
 section {
-    background: white;
     margin: 20px;
     padding: 20px;
-    border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-}
-
-h2 {
-    color: #333;
+    background: #ffffff;
+    border-radius: 5px;
 }
 
 footer {
     text-align: center;
-    background-color: #333;
-    color: white;
-    padding: 1rem;
-    position: fixed;
+    padding: 10px;
+    background: #35424a;
+    color: #ffffff;
+    position: relative;
     bottom: 0;
     width: 100%;
 }
